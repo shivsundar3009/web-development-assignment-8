@@ -1,0 +1,21 @@
+.app {
+  color: white;
+  display: flex;
+  margin: auto;
+  width: 50%;
+  height: 20em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255,73,87);
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+body{
+  background-color: rgb(255,242,244);
+}
